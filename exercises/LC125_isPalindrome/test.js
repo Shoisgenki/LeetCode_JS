@@ -15,3 +15,4 @@ test("'' returns true", () => {
 test("'_a__' returns true", () => {
   expect(isPalindrome("_a__")).toEqual(true);
 });
+
